@@ -1,9 +1,10 @@
-# sales-bootstrap
+# Sales website; utilizing the twitter bootstrap layout
 
-Overview of the project: 
-Bootstrap basics! Build a simple and clean sales website - that gives users access to the documentation of the app, information of the app, location to download app and a contact page by utilizing the twitter bootstrap framework.
+Overview:
+Back to basics with Bootstrap!
+I'm using this project space to build a simple and clean sales website - with home, about and contact pages, all whilst utilizing the twitter bootstrap framework.
 
-Concentrating on integrating the following features/functionality:
+This project concentrates on integrating the following features/functionality:
 - Bootstrap Navbar
 - Jumbotron
 - Accordion Menu
