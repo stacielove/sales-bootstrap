@@ -1,4 +1,4 @@
-# Sales website; utilizing the twitter bootstrap layout
+# Sales website; utilizing the twitter bootstrap layout	
 
 Overview:
 Back to basics with Bootstrap!
